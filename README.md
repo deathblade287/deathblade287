@@ -1,8 +1,7 @@
 # Hey, I'm Aviral :wave:
+Student By Obligation, Developer By Passion.
 
-> Student By Obligation, Developer By Passion.
-
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/AviralDhingra/AviralDhingra/main/banner.png">
 
 <p align="center"> 
   Visitor count<br>
@@ -32,8 +31,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<br>
-*Contact Information Is Below User Name*
+
+
+*Contact Information Is To The Right*
 
 <!--
 Here are some ideas to get you started:

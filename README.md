@@ -30,7 +30,7 @@
 
 
 
-*Contact Me At: aviral.dhingra.2008@gmail.com*
+*Contact Me: aviral.dhingra.2008@gmail.com*
 
 <!--
 Here are some ideas to get you started:

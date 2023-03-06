@@ -1,6 +1,3 @@
-# Hey, I'm Aviral :wave:
-Student By Obligation, Developer By Passion.
-
 <img src="https://raw.githubusercontent.com/AviralDhingra/AviralDhingra/main/banner.png">
 
 <p align="center"> 

@@ -1,4 +1,4 @@
-# Hey there :wave:
+# Hey, I'm Aviral :wave:
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
@@ -7,9 +7,7 @@
   <img src="https://profile-counter.glitch.me/greatestpythoncoder/count.svg" />
 </p>
 
-## Me In One Line
-
-Student By Obligation, Developer By Passion.
+> Student By Obligation, Developer By Passion.
 
 ## Technologies I Work With
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

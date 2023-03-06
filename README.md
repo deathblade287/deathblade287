@@ -1,13 +1,13 @@
 # Hey, I'm Aviral :wave:
 
+> Student By Obligation, Developer By Passion.
+
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/greatestpythoncoder/count.svg" />
 </p>
-
-> Student By Obligation, Developer By Passion.
 
 ## Technologies I Work With
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

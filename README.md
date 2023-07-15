@@ -5,10 +5,6 @@
   <img src="https://profile-counter.glitch.me/greatestpythoncoder/count.svg" />
 </p>
 
-## Focus
- - Fully Automated Quant Trade Bot
- - JARVIS-like speech interaction system with hardware access
-
 ## Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)

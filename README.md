@@ -66,6 +66,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
+![image](https://github.com/deathblade287/AviralDhingra/assets/71305878/f47203ad-73b5-4295-874e-2e82c9f5089b)
 
 *Contact Me: aviral.dhingra.2008@gmail.com*
 

@@ -67,6 +67,7 @@
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
 ![image](https://github.com/deathblade287/AviralDhingra/assets/71305878/f47203ad-73b5-4295-874e-2e82c9f5089b)
+![image](https://github.com/deathblade287/deathblade287/assets/71305878/091e6b21-6b4e-4b1c-a6ba-96958b27e9b6)
 
 *Contact Me: aviral.dhingra.2008@gmail.com*
 

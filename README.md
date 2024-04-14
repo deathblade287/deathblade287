@@ -1,11 +1,6 @@
-<img src="https://raw.githubusercontent.com/AviralDhingra/AviralDhingra/main/banner.png">
+<h2 align="center">👋 Hello! I'm Aviral.</h2>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/greatestpythoncoder/count.svg" />
-</p>
 
-## Tech Stacks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -67,7 +62,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
-![image](https://github.com/deathblade287/AviralDhingra/assets/71305878/f47203ad-73b5-4295-874e-2e82c9f5089b)
+-------
+
 ![image](https://github.com/deathblade287/deathblade287/assets/71305878/091e6b21-6b4e-4b1c-a6ba-96958b27e9b6)
 
 *Contact Me: aviral.dhingra.2008@gmail.com*

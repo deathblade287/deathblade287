@@ -1,5 +1,11 @@
 <h2 align="center"> 👋 Hello! I'm Aviral </h2>
 
+I'm a high school researcher and programmer passionate about operating systems, machine learning, and financial modeling.
+
+## 📚 Research
+- [GDEI Paper: Gradient Descent Efficiency Index](https://arxiv.org/abs/2410.19448)
+
+## 🥷 Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
